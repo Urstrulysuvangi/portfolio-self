@@ -1,0 +1,58 @@
+*
+{
+    background: #F5F5F5;
+    color: #282828;
+}
+.nav1
+{
+    justify-content: end;
+    padding: 20px 20px 0px 10px;
+    font-family: Neue Haas Grotesk Display Pro; 
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24.8668px;
+    line-height: 28px;
+    left: 40px;
+}
+a
+{
+    color: #282828 !important;
+}
+.nav1 img
+{
+    background: #F5F5F5;
+    height: 60px;
+    width: 69px;
+    padding-left: inherit; 
+    float: left;
+}
+.flex-container
+{
+    display: flex;
+    float: right;
+    top: 40px;
+}
+.owlpic img
+{
+    position: absolute;
+    width: 543px;
+    height: 470px;
+    left: 726px;
+    top: 156px;
+   
+}
+.intro 
+{
+    position: absolute; 
+    width: 773px;
+    height: 250px;
+    left: 117px;
+    top: 222px;
+
+    font-family: Neue Haas Grotesk Display Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 41px;
+    line-height: 89px;
+    color: #282828;
+}
